@@ -15,8 +15,7 @@ In summary, this project introduces a crucial component to the system interface,
 https://gilecampos.github.io/Sidebar--1/
 
 
-## Stack utilizada
-
+## Technology
 **Front-end:** HTML, CSS, JavaScript
 
 
